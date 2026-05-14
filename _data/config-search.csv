@@ -1,7 +1,14 @@
 field,index,display
+display_template,false,false
+radio_show,false,true
 title,true,true
-date,true,true
-creator,true,false
 description,true,true
+date,false,true
 subject,true,true
-location,true,false
+host,true,true
+guest,true,true
+duration,false,true
+language,false,false
+subtitle_language,true,false
+rights_summary,false,false
+broadcaster,false,false
