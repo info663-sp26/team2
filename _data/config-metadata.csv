@@ -1,15 +1,13 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+radio_show,Radio Show,,,DCTERMS:title,name
+title,Episode Title,,,DCTERMS:title,name
+description,Episode Description,,,DCTERMS:description,abstract
+date,Broadcast Date,,,DCTERMS:date,datePublished
+subject,Subject,true,,DCTERMS:subject,about
+host,Host,true,,DCTERMS:creator,actor
+guest,Guest,true,,DCTERMS:contributor,actor
+duration,Duration,,,DCTERMS:extent,timeRequired
+language,Language,true,,DCTERMS:language,language
+subtitle_language,Subtitle Language,,,,
+rights_summary,Rights Summary,,,DCTERMS:rights,license
+broadcaster,Broadcaster,,,DCTERMS:publisher,actor
