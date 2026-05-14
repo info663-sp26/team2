@@ -1,7 +1,12 @@
-field,display_name,btn,hidden,sort_name,facet_name
-date,Date,,,Date Created
-description,,,true,
-creator,Creator,,,
-subject,,true
-location,,true,,,Location Depicted
-identifier,,,true,Identifier
+field,display_name,btn,hidden,sort_name
+objectid,Episode Identifier,,true,
+radio_show,Radio Show,,true,
+title,Episode Title,,true,
+description,Episode Description,,true,
+date,Broadcast Date,,true,Date
+subject,Subject,true,false,Subjects
+host,Host,,false,Host
+guest,Guest,,false,Guests
+language,Language,,false,Language
+rights_summary,Rights Summary,,true,Rights
+broadcaster,Broadcaster,,true,Broadcaster
