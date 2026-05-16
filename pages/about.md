@@ -20,7 +20,7 @@ padding: 6em
 
 ## About
 
-This site was created by Andrew Shillingford, Maria Rhodes, and Georgia Troch for INFO 663-01.
+This site was created by Andrew Shillingford, Maria Rhodes, and Georgia Troch for INFO-663: Metadata Design.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
