@@ -20,11 +20,10 @@ source-code: https://github.com/info663-sp26/team2
 # title of site appears in banner
 title: Soul of Reason Radio Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: INFO-663: Maria Rhodes, Andrew Shillingford, Georgia Troch
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: The Records of NYU’s Institute for Afro-American (now African American) Affairs (IAAA), housed in NYU’s University Archives, contain a series of well over a hundred recordings of Soul of Reason, a half-hour radio show that aired from 1971-1986 on both the commercial radio station WNBC and the University’s radio station, WNYU.
-
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: radio; Black history
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
